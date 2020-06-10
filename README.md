@@ -1,1 +1,1 @@
-# yotsuya-design.gitthub.io
+# yotsuya-design.github.io
